@@ -1,6 +1,7 @@
 .gpt3__header {
   display: flex;
   flex-direction: row;
+  padding: 2rem;
 }
 
 .gpt3__header-content {
